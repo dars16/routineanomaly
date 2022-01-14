@@ -1,0 +1,4 @@
+{
+"activities": ["bed", "court", "dining_room", "hygiene", "living", "recreation_room", "wc"], 
+"codes": [0, 1, 2, 3, 4, 5, 6]
+}
